@@ -45,4 +45,4 @@
 상업적 용도로 사용되지 않았습니다.
 
 ## 📧 문의
-gubiyeon96@gmail.com
+gxxxngmxn@gmail.com
