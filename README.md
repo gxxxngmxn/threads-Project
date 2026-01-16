@@ -1,9 +1,9 @@
 # 🎮 대규모 유저 행동 데이터 수집 및 감성 분석 시스템
 
-> 720개 SNS 게시물 수집으로 유저 참여도 예측
+> 720개 SNS 게시물 자동 수집으로 유저 참여도 예측
 
 ## 📊 프로젝트 개요
-게임 커뮤니티 유저 피드백을 수집하고 분석하는 시스템입니다.
+게임 커뮤니티 유저 피드백을 자동으로 수집하고 분석하는 시스템입니다.
 
 ## 🎯 핵심 성과
 - ⏱️ **작업 시간 95% 단축** (120시간 → 6시간)
@@ -26,13 +26,13 @@
 ## 📈 시각화
 
 ### Before/After 비교
-![Before After](Before_After_비교.png)
+![Before After](Before_After.png)
 
 ### 핵심 성과 대시보드
-![Dashboard](핵심성과_대시보드.png)
+![Dashboard](Dashboard.png)
 
 ### 작업 효율성
-![Efficiency](작업효율성_비교.png)
+![Efficiency](efficiency.png)
 
 ## ⚖️ 법적 준수 사항
 
